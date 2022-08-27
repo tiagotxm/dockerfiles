@@ -11,6 +11,6 @@ Dockerfiles com customizações de imagens utilizadas em alguns projetos pessoai
     `path` - Caminho do dockerfile
 
     - Exemplo
-      - `make build image=tiagotxm/airflow tag=2.3.0 path=airflow/.
+      - `make build image=tiagotxm/airflow tag=2.3.0 path=airflow/.`
 
 #### Author: @tiagotxm
